@@ -1,0 +1,13 @@
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+C:\Users\김하연\source\repos\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.csprojAssemblyReference.cache
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\김하연\source\repos\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
